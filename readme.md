@@ -8,3 +8,5 @@
 4. Wait for installation to complete
 
 The Framer X project knows exactly where to place things and if you check your "package.json" file you should see your package under the "dependencies category
+
+[View Linton Ye's tweet to see it in action] (https://twitter.com/lintonye/status/1029411284263919616)
